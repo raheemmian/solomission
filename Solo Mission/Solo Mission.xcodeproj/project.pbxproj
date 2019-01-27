@@ -88,6 +88,7 @@
 				B550681321F6D9B400B9D4BC /* Solo Mission */,
 				B550682E21F6D9B700B9D4BC /* Solo MissionTests */,
 				B550683921F6D9B700B9D4BC /* Solo MissionUITests */,
+				B550682121F6D9B600B9D4BC /* Assets.xcassets */,
 				B550681221F6D9B400B9D4BC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -111,7 +112,6 @@
 				B550681A21F6D9B400B9D4BC /* GameScene.swift */,
 				B550681C21F6D9B400B9D4BC /* GameViewController.swift */,
 				B550681E21F6D9B400B9D4BC /* Main.storyboard */,
-				B550682121F6D9B600B9D4BC /* Assets.xcassets */,
 				B550684821F6E0AB00B9D4BC /* bullet_whizzing_by-Mike_Koenig-2005433595.wav */,
 				B550682321F6D9B600B9D4BC /* LaunchScreen.storyboard */,
 				B550682621F6D9B600B9D4BC /* Info.plist */,
